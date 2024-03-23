@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 function TopBar() {
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary  border-bottom shadow">
+    <nav className="navbar navbar-expand-lg bg-body-tertiary  border-bottom shadow-mg ">
       <div className="container-fluid">
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
